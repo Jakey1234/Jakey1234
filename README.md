@@ -8,5 +8,5 @@
 # <h1 align="center"> ANTI </h1>
 
 <p align="center">  
-<img src="https://discord.c99.nl/widget/theme-1/916094817849729054.png">
+<img src="https://discord.c99.nl/widget/theme-5/916094817849729054.png">
 </p>
