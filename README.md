@@ -1,9 +1,5 @@
-- 👋 Wassgud, I’m Tyrese
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to make Discord bots
-- 📫 Discord: Jakey#6003
-
+- Current Project: Azurite
+- Name: Tyrese
 
 # <h1 align="center"> Mind </h1>
 
