@@ -1,5 +1,5 @@
-- Current Project: Azurite
 - Name: Tyrese
+- Current Project: Azurite
 
 # <h1 align="center"> Mind </h1>
 
